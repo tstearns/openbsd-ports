@@ -1,0 +1,5 @@
+@comment $OpenBSD$
+bin/distribution
+share/doc/distribution/
+share/doc/distribution/LICENSE.md
+share/doc/distribution/README.md

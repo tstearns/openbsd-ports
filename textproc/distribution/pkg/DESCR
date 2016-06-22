@@ -1,0 +1,6 @@
+Short, simple, direct scripts for creating character-based graphs in a command
+terminal.
+
+It was originally for generating histograms (a distribution of the frequency of
+input tokens) but it has since been expanded to generate time-series graphs (or,
+in fact, graphs with any arbitrary "x-axis") as well.
